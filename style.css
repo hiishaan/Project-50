@@ -1,0 +1,19 @@
+h1{
+    color:rgb(209, 43, 43)
+}
+*{
+    color: rgb(255, 182, 47);
+    border: solid
+
+}
+.HeadingofmyPage{
+    color:indigo;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.MysocialIcons{
+    color:lawngreen;
+    background-color: purple;
+}
+
